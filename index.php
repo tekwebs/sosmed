@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/sweetalert.css">
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
 
-    <title>Sign in</title>
+    <title>Sign</title>
   </head>
   <body>
 
